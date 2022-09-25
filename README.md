@@ -1,2 +1,2 @@
 # Javascript
-Evercise Done
+Exercise Done
